@@ -10,7 +10,7 @@ const ItemsController = {
         id:item.id,
         image:item.image,
         title:item.title,
-        url:`http://localhost:3333/uploads/${item.image}`
+        url:`http://192.168.0.102:3333/uploads/${item.image}`
       }
     });
 
