@@ -11,3 +11,7 @@ Project to study Node.js, React.js + Typescript and React Native.
     - cd web
     - npm install
     - npm start
+    
+## Mobile Project:
+    - https://github.com/paulinho68/EcoletaMobile
+    
